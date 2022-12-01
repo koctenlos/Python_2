@@ -19,7 +19,7 @@
 # (-0.56) -> 11
 
 
-number = input('введите число')
+number = input('Введите число:  ')
 def sum_in_number(some_number):
     sum = 0
     for i in some_number:
